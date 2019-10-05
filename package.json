@@ -16,6 +16,7 @@
     "js"
   ],
   "dependencies": {
+    "doctoc": "^1.4.0",
     "tsc": "^1.20150623.0",
     "typescript": "^3.6.3",
     "webpack": "^4.40.2"
