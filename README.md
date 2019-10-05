@@ -15,7 +15,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 初始化
+### 初始化
 ```js
 jjLog.init({
       isConsole: true, // 是否在保存时实时转发
