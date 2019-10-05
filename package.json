@@ -1,0 +1,26 @@
+{
+  "name": "jjLog.js",
+  "version": "1.0.0",
+  "author": "jacker",
+  "license": "MIT",
+  "description": "useful js func",
+  "main": "./dist/index.js",
+  "types": "./dist/types/index.d.ts",
+  "private": false,
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc && webpack"
+  },
+  "keywords": [
+    "typescript",
+    "js"
+  ],
+  "dependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.40.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.8"
+  }
+}
