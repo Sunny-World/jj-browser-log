@@ -12,7 +12,19 @@
     <script src="jjLog/common/$fn.js"></script>
     ```
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO 
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+- [初始化](#%E5%88%9D%E5%A7%8B%E5%8C%96)
+- [保存日志](#%E4%BF%9D%E5%AD%98%E6%97%A5%E5%BF%97)
+  - [直接保存](#%E7%9B%B4%E6%8E%A5%E4%BF%9D%E5%AD%98)
+  - [输出成功日志](#%E8%BE%93%E5%87%BA%E6%88%90%E5%8A%9F%E6%97%A5%E5%BF%97)
+  - [输出警告日志](#%E8%BE%93%E5%87%BA%E8%AD%A6%E5%91%8A%E6%97%A5%E5%BF%97)
+  - [输出错误日志](#%E8%BE%93%E5%87%BA%E9%94%99%E8%AF%AF%E6%97%A5%E5%BF%97)
+- [获取日志当前行数](#%E8%8E%B7%E5%8F%96%E6%97%A5%E5%BF%97%E5%BD%93%E5%89%8D%E8%A1%8C%E6%95%B0)
+- [获取全部日志内容](#%E8%8E%B7%E5%8F%96%E5%85%A8%E9%83%A8%E6%97%A5%E5%BF%97%E5%86%85%E5%AE%B9)
+- [清空日志](#%E6%B8%85%E7%A9%BA%E6%97%A5%E5%BF%97)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### 初始化
