@@ -1,5 +1,5 @@
-# jjLog（浏览器环境）
-- jjLog---前端日志保存方案
+# jj-browser-log（浏览器环境）
+- jj-browser-log---前端日志保存方案
 
 [toc]
 
