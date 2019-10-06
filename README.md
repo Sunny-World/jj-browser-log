@@ -5,11 +5,11 @@
 
 - 引用库
     ```js
-    import jjLog from 'jjLog'
+    import jjLog from 'jj-browser-log'
     ```
 - html直接引用
     ```html
-    <script src="jjLog/common/$fn.js"></script>
+    <script src="./common/$fn.js"></script>
     ```
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
