@@ -1,6 +1,6 @@
 /*
 
-    jjLog.js
+    jj-browser-log.js
     by @jacker
     
 */
